@@ -9,7 +9,7 @@ Podczas ćwiczeń grupy studenckie przygotowują skrypt w języku Python z wykor
 
 #### Zaliczenie przedmiotu
 
-Zaliczenie przedmiotu odbywa się na podstawie przygotowanej prezentacji z analizy danych prezentującej wszystkie kroki wykorzystane do utworzenia klasyfikatora, skryptów, zaprezentowaniu wyników i podjęcia dyskusji na temat optymalizacji i ulepszenia stworzonego klasyfikatora i problemów wynikających w trakcie budowy klasyfikatora. 
+Zaliczenie przedmiotu odbywa się na podstawie przygotowanej prezentacji z analizy danych prezentującej wszystkie etapy analizy danych od przygotowania danych, preprocessingu, aż do utworzenia klasyfikatora. Podczas prezentacji zespół prezentuje skrypty,  wyniki i podejmuje dyskusję na temat optymalizacji i ulepszenia stworzonego klasyfikatora i problemów wynikających w trakcie budowy klasyfikatora. 
 
 #### Wymagania
 
