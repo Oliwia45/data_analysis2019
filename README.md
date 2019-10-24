@@ -1,5 +1,6 @@
 ## Analiza danych, bioinformatyka rok 3, semestr zimowy 2019/2020
 **Prowadzący:** mgr inż. Bartosz Czech
+**Kontakt:** [bartosz.czech@upwr.edu.pl](bartosz.czech@upwr.edu.pl)
 
 Celem ćwiczeń jest wykorzystanie metod głębokiego uczenia do utworzenia klasyfikatora umożliwiającego rozpoznanie, czy dany SNP jest prawidłowy czy błędny. 
 
