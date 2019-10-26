@@ -3,7 +3,7 @@
 **Kontakt:** [bartosz.czech@upwr.edu.pl](mailto:bartosz.czech@upwr.edu.pl)\
 **Strona przedmiotu:** [THETA](http://theta.edu.pl/teaching/analiza-danych/)
 
-Celem ćwiczeń jest wykorzystanie metod głębokiego uczenia do utworzenia klasyfikatora umożliwiającego rozpoznanie, poprawności genotypowania danego SNP. 
+Celem ćwiczeń jest wykorzystanie metod głębokiego uczenia do utworzenia klasyfikatora umożliwiającego rozpoznanie poprawności zgenotypowanego SNP. 
 
 #### Opis ćwiczeń
 
