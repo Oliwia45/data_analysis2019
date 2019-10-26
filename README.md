@@ -1,6 +1,6 @@
 ## Analiza danych, bioinformatyka rok 3, semestr zimowy 2019/2020
 **Prowadzący:** mgr inż. Bartosz Czech\
-**Kontakt:** [bartosz.czech@upwr.edu.pl](bartosz.czech@upwr.edu.pl)\
+**Kontakt:** [bartosz.czech@upwr.edu.pl](mailto:bartosz.czech@upwr.edu.pl)\
 **Strona przedmiotu:** [THETA](http://theta.edu.pl/teaching/analiza-danych/)
 
 Celem ćwiczeń jest wykorzystanie metod głębokiego uczenia do utworzenia klasyfikatora umożliwiającego rozpoznanie, poprawności genotypowania danego SNP. 
