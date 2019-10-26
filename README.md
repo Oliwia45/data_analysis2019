@@ -21,8 +21,10 @@ Zaliczenie przedmiotu odbywa się na podstawie przygotowanej prezentacji z anali
 	* scipy
 	* matplotlib
 	* pandas
+	* keras
+	* tensorflow
 * Pomocne w instalacji środowiska Python oraz bibliotek może być Conda/Miniconda https://docs.conda.io/en/latest/
-* IDE: PyCharm albo Jupyter Notebook (użyty przeze mnie)
+* IDE: PyCharm albo Jupyter Notebook (użyty przeze mnie do tworzenia skryptów zamieszczonych w niniejszym repo)
 
 #### Skrypty i dane
 
