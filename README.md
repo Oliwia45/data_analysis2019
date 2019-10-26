@@ -15,6 +15,7 @@ Zaliczenie przedmiotu odbywa się na podstawie przygotowanej prezentacji z anali
 
 #### Wymagania
 
+* OS: Windows lub UNIX (preferowany)
 * Python 3.7 https://www.python.org/downloads/
 * Najnowsze wersje bibliotek:
 	* numpy
