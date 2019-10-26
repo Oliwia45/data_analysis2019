@@ -1,4 +1,5 @@
-## Analiza danych, bioinformatyka rok 3, semestr zimowy 2019/2020
+# Analiza danych
+## bioinformatyka rok 3, semestr zimowy 2019/2020
 **Prowadzący:** mgr inż. Bartosz Czech\
 **Kontakt:** [bartosz.czech@upwr.edu.pl](mailto:bartosz.czech@upwr.edu.pl)\
 **Strona przedmiotu:** [THETA](http://theta.edu.pl/teaching/analiza-danych/)
