@@ -1,6 +1,5 @@
 # Analiza danych
 ## bioinformatyka rok 3, semestr zimowy 2019/2020
-**Prowadzący wykłady:** prof. dr hab. inż. Joanna Szyda\
 **Prowadzący ćwiczenia:** mgr inż. Bartosz Czech\
 **Kontakt:** [bartosz.czech@upwr.edu.pl](mailto:bartosz.czech@upwr.edu.pl)\
 **Strona przedmiotu:** [THETA](http://theta.edu.pl/teaching/analiza-danych/)
