@@ -1,6 +1,7 @@
 # Analiza danych
 ## bioinformatyka rok 3, semestr zimowy 2019/2020
-**Prowadzący:** mgr inż. Bartosz Czech\
+**Prowadzący wykłady:** prof. dr hab. inż. Joanna Szyda\
+**Prowadzący ćwiczenia:** mgr inż. Bartosz Czech\
 **Kontakt:** [bartosz.czech@upwr.edu.pl](mailto:bartosz.czech@upwr.edu.pl)\
 **Strona przedmiotu:** [THETA](http://theta.edu.pl/teaching/analiza-danych/)
 
@@ -25,6 +26,7 @@ Zaliczenie przedmiotu odbywa się na podstawie przygotowanej prezentacji z anali
 	* pandas
 	* keras
 	* tensorflow
+	* scikit-learn
 * Pomocne w instalacji środowiska Python oraz bibliotek może być Conda/Miniconda https://docs.conda.io/en/latest/
 * IDE: PyCharm albo Jupyter Notebook (użyty przeze mnie do tworzenia skryptów zamieszczonych w niniejszym repo)
 
