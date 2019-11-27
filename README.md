@@ -10,13 +10,19 @@ Celem ćwiczeń jest wykorzystanie metod głębokiego uczenia do utworzenia klas
 
 Podczas ćwiczeń grupy studenckie przygotowują skrypt w języku Python z wykorzystaniem biblioteki keras do utworzenia najbardziej optymalnego klasyfikatora.
 
+#### Plan ćwiczeń
+
+| Lab | Data | Opis | Zadania |
+| :---: | --- | --- | --- |
+| **01** | 28.11.2019 | Wprowadzenie i data preprocessing | [lab01](labs/Analiza_danych_cw1.ipynb) [lab02](labs/Analiza_danych_cw2.ipynb) |
+
 #### Zaliczenie przedmiotu
 
-Zaliczenie przedmiotu odbywa się na podstawie przygotowanej prezentacji z analizy danych prezentującej wszystkie etapy analizy danych od przygotowania danych, preprocessingu, aż do utworzenia klasyfikatora. Podczas prezentacji zespół prezentuje skrypty,  wyniki i podejmuje dyskusję na temat optymalizacji i ulepszenia stworzonego klasyfikatora i problemów wynikających w trakcie budowy klasyfikatora. 
+Zaliczenie przedmiotu odbywa się na podstawie przygotowanej prezentacji z analizy danych na której grupy przedstawiają wszystkie etapy analizy danych od przygotowania danych, preprocessingu, aż do utworzenia klasyfikatora i omówienia wyników klasyfikacji. Podczas prezentacji zespół prezentuje skrypty,  wyniki i podejmuje dyskusję na temat optymalizacji i ulepszenia stworzonego klasyfikatora i problemów wynikających w trakcie budowy klasyfikatora. 
 
 #### Wymagania
 
-* OS: Windows lub UNIX (preferowany)
+* OS: Windows, Linux lub MacOS (preferowane dwa ostatnie)
 * Python 3.7 https://www.python.org/downloads/
 * Najnowsze wersje bibliotek:
 	* numpy
