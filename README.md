@@ -16,7 +16,7 @@ Podczas ćwiczeń grupy studenckie przygotowują skrypt w języku Python z wykor
 | :---: | --- | --- | --- |
 | **01** | 28.11.2019 | Wprowadzenie | [lab01](labs/Analiza_danych_cw1.ipynb) |
 | **02** | 05.12.2019 | Wstępne przetwarzanie danych | [lab02](labs/Analiza_danych_cw2.ipynb) |
-| **03** | 18.12.2019 | Pierwsza sieć neuronowa z Keras | [lab02](labs/Analiza_danych_cw3.ipynb) |
+| **03** | 19.12.2019 | Pierwsza sieć neuronowa z Keras | [lab03](labs/Analiza_danych_cw3.ipynb) |
 
 #### Zaliczenie przedmiotu
 
