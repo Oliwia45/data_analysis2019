@@ -18,6 +18,9 @@ Podczas ćwiczeń grupy studenckie przygotowują skrypt w języku Python z wykor
 | **02** | 05.12.2019 | Wstępne przetwarzanie danych | [lab02](labs/Analiza_danych_cw2.ipynb) |
 | **03** | 19.12.2019 | Pierwsza sieć neuronowa z Keras | [lab03](labs/Analiza_danych_cw3.ipynb) |
 | **04** | 09.01.2020 | Praca nad projektem w zespołach roboczych |  |
+| **05** | 16.01.2020 | Praca nad projektem w zespołach roboczych |  |
+| **06** | 23.01.2020 | Praca nad projektem w zespołach roboczych |  |
+| **07** | 30.01.2020 | Praca nad projektem w zespołach roboczych |  |
 
 
 #### Zaliczenie przedmiotu
